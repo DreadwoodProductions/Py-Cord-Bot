@@ -1,1 +1,4744 @@
-
+[
+  {
+    "Name": "Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+1",
+      "Gems": "x1",
+      "Limited": false,
+      "Coins": "x2"
+    }
+  },
+  {
+    "Name": "Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+2",
+      "Gems": "x1",
+      "Limited": false,
+      "Coins": "x1"
+    }
+  },
+  {
+    "Name": "Skelly Deer",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+280",
+      "Gems": "x385",
+      "Limited": false,
+      "Coins": "x350"
+    }
+  },
+  {
+    "Name": "Skelly Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+515",
+      "Gems": "x445",
+      "Limited": false,
+      "Coins": "x480"
+    }
+  },
+  {
+    "Name": "Evil Marsh",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,500",
+      "Gems": "x4,350",
+      "Limited": true,
+      "Coins": "x5,375"
+    }
+  },
+  {
+    "Name": "Sinister Lord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+151,150",
+      "Gems": "x266,050",
+      "Limited": false,
+      "Coins": "x220,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Ethereal One",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+15,750,500",
+      "Gems": "x14,750,500",
+      "Limited": true,
+      "Coins": "x12,750,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Ultimate Sinister Lord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+24,521,500",
+      "Gems": "x22,584,181",
+      "Limited": true,
+      "Coins": "x26,451,561",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Release Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+15",
+      "Gems": "x15",
+      "Limited": true,
+      "Coins": "x20"
+    }
+  },
+  {
+    "Name": "Release Mouse",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+20",
+      "Gems": "x15",
+      "Limited": true,
+      "Coins": "x15"
+    }
+  },
+  {
+    "Name": "Release Bat",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+75",
+      "Gems": "x60",
+      "Limited": true,
+      "Coins": "x45"
+    }
+  },
+  {
+    "Name": "Release Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+155",
+      "Gems": "x150",
+      "Limited": true,
+      "Coins": "x125"
+    }
+  },
+  {
+    "Name": "Release Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+275",
+      "Gems": "x205",
+      "Limited": true,
+      "Coins": "x165"
+    }
+  },
+  {
+    "Name": "Release Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+335",
+      "Gems": "x145",
+      "Limited": true,
+      "Coins": "x205"
+    }
+  },
+  {
+    "Name": "Release Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+4,500",
+      "Gems": "x2,500",
+      "Limited": true,
+      "Coins": "x3,300"
+    }
+  },
+  {
+    "Name": "Release Overlord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+13,055",
+      "Gems": "x8,885",
+      "Limited": true,
+      "Coins": "x9,955"
+    }
+  },
+  {
+    "Name": "Release Trophy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+41,250",
+      "Gems": "x40,500",
+      "Limited": true,
+      "Coins": "x35,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Release Tophat",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+54,250",
+      "Gems": "x53,500",
+      "Limited": true,
+      "Coins": "x43,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Release Retriever",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+78,250",
+      "Gems": "x66,500",
+      "Limited": true,
+      "Coins": "x66,250",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Solar Energy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+118,250",
+      "Gems": "x76,500",
+      "Limited": true,
+      "Coins": "x84,250",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Radiant Gem",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+126,250",
+      "Gems": "x97,500",
+      "Limited": true,
+      "Coins": "x92,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Inferno Dragon",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+115",
+      "Gems": "x205",
+      "Limited": false,
+      "Coins": "x195"
+    }
+  },
+  {
+    "Name": "Mouse",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+3",
+      "Gems": "x1",
+      "Limited": false,
+      "Coins": "x2"
+    }
+  },
+  {
+    "Name": "Wolf",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+1",
+      "Gems": "x2",
+      "Limited": false,
+      "Coins": "x3"
+    }
+  },
+  {
+    "Name": "Fox",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+3",
+      "Gems": "x2",
+      "Limited": false,
+      "Coins": "x2"
+    }
+  },
+  {
+    "Name": "Polar Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+14",
+      "Gems": "x13",
+      "Limited": false,
+      "Coins": "x12"
+    }
+  },
+  {
+    "Name": "Panda",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+14",
+      "Gems": "x9",
+      "Limited": false,
+      "Coins": "x8"
+    }
+  },
+  {
+    "Name": "Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+2",
+      "Gems": "x1",
+      "Limited": false,
+      "Coins": "x2"
+    }
+  },
+  {
+    "Name": "Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+4",
+      "Gems": "x2",
+      "Limited": false,
+      "Coins": "x5"
+    }
+  },
+  {
+    "Name": "Prince Doggy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,000",
+      "Gems": "x5,000",
+      "Limited": true,
+      "Coins": "x5,000"
+    }
+  },
+  {
+    "Name": "Royal Doggy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+131,500",
+      "Gems": "x101,000",
+      "Limited": false,
+      "Coins": "x121,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Green Frog",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+280",
+      "Gems": "x340",
+      "Limited": true,
+      "Coins": "x315"
+    }
+  },
+  {
+    "Name": "Red Frog",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+260",
+      "Gems": "x315",
+      "Limited": true,
+      "Coins": "x325"
+    }
+  },
+  {
+    "Name": "Porcupine",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+595",
+      "Gems": "x610",
+      "Limited": true,
+      "Coins": "x745"
+    }
+  },
+  {
+    "Name": "Clownfish",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+545",
+      "Gems": "x700",
+      "Limited": true,
+      "Coins": "x805"
+    }
+  },
+  {
+    "Name": "Owl",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+715",
+      "Gems": "x1,105",
+      "Limited": true,
+      "Coins": "x1,035"
+    }
+  },
+  {
+    "Name": "Lynx",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+920",
+      "Gems": "x1,015",
+      "Limited": true,
+      "Coins": "x1,250"
+    }
+  },
+  {
+    "Name": "Zebra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+8,750",
+      "Gems": "x10,355",
+      "Limited": true,
+      "Coins": "x1,200"
+    }
+  },
+  {
+    "Name": "Mythic Zebra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+21,875",
+      "Gems": "x25,887.5",
+      "Limited": true,
+      "Coins": "x3,000"
+    }
+  },
+  {
+    "Name": "Ocelot",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+11,600",
+      "Gems": "x19,375",
+      "Limited": true,
+      "Coins": "x25,415"
+    }
+  },
+  {
+    "Name": "Mythic Ocelot",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+72,500",
+      "Gems": "x48,437.5",
+      "Limited": true,
+      "Coins": "x63,537.5"
+    }
+  },
+  {
+    "Name": "Axolotl Plushie",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+15,500",
+      "Gems": "x34,275",
+      "Limited": true,
+      "Coins": "x31,050"
+    }
+  },
+  {
+    "Name": "Mythic Axolotl Plushie",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+38,750",
+      "Gems": "x85,687.5",
+      "Limited": true,
+      "Coins": "x77,625"
+    }
+  },
+  {
+    "Name": "Air Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+97,500",
+      "Gems": "x105,000",
+      "Limited": true,
+      "Coins": "x135,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Air Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+243,750",
+      "Gems": "x262,500",
+      "Limited": true,
+      "Coins": "x337,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Ice Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+97,500",
+      "Gems": "x105,000",
+      "Limited": true,
+      "Coins": "x135,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Ice Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+243,750",
+      "Gems": "x262,500",
+      "Limited": true,
+      "Coins": "x337,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Electric Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+97,500",
+      "Gems": "x105,000",
+      "Limited": true,
+      "Coins": "x135,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Electric Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+243,750",
+      "Gems": "x262,500",
+      "Limited": true,
+      "Coins": "x337,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Fire Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+97,500",
+      "Gems": "x105,000",
+      "Limited": true,
+      "Coins": "x135,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Fire Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+243,750",
+      "Gems": "x262,500",
+      "Limited": true,
+      "Coins": "x337,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Overlord Plushie",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+118,500",
+      "Gems": "x110,750",
+      "Limited": true,
+      "Coins": "x139,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Overlord Plushie",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+296,250",
+      "Gems": "x276,875",
+      "Limited": true,
+      "Coins": "x348,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Ultima",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+224,000",
+      "Gems": "x259,000",
+      "Limited": true,
+      "Coins": "x314,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Ultima",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+560,000",
+      "Gems": "x647,500",
+      "Limited": true,
+      "Coins": "x785,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Obsidian Mouse",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+70",
+      "Gems": "x60",
+      "Limited": false,
+      "Coins": "x66"
+    }
+  },
+  {
+    "Name": "Obsidian Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+65",
+      "Gems": "x71",
+      "Limited": false,
+      "Coins": "x75"
+    }
+  },
+  {
+    "Name": "Obsidian Bull",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+120",
+      "Gems": "x135",
+      "Limited": false,
+      "Coins": "x125"
+    }
+  },
+  {
+    "Name": "Obsidian Wolf",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+155",
+      "Gems": "x150",
+      "Limited": false,
+      "Coins": "x172"
+    }
+  },
+  {
+    "Name": "Obsidian Bat",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+275",
+      "Gems": "x245",
+      "Limited": false,
+      "Coins": "x205"
+    }
+  },
+  {
+    "Name": "Obsidian Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+405",
+      "Gems": "x225",
+      "Limited": false,
+      "Coins": "x295"
+    }
+  },
+  {
+    "Name": "Obsidian Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+650",
+      "Gems": "x710",
+      "Limited": false,
+      "Coins": "x755"
+    }
+  },
+  {
+    "Name": "Heavenly Bull",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+320",
+      "Gems": "x375",
+      "Limited": false,
+      "Coins": "x350"
+    }
+  },
+  {
+    "Name": "Heavenly Deer",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+300",
+      "Gems": "x395",
+      "Limited": false,
+      "Coins": "x380"
+    }
+  },
+  {
+    "Name": "Sheepish",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+550",
+      "Gems": "x485",
+      "Limited": false,
+      "Coins": "x610"
+    }
+  },
+  {
+    "Name": "Easter Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+655",
+      "Gems": "x690",
+      "Limited": false,
+      "Coins": "x790"
+    }
+  },
+  {
+    "Name": "Neon Chinchilla",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+950",
+      "Gems": "x910",
+      "Limited": false,
+      "Coins": "x1,080"
+    }
+  },
+  {
+    "Name": "Blessed Rabbit",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+900",
+      "Gems": "x1,050",
+      "Limited": true,
+      "Coins": "x1,100"
+    }
+  },
+  {
+    "Name": "Angelic Bear",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+7,815",
+      "Gems": "x14,250",
+      "Limited": true,
+      "Coins": "x17,250"
+    }
+  },
+  {
+    "Name": "Phoenix Hybrid",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+11,150",
+      "Gems": "x19,750",
+      "Limited": true,
+      "Coins": "x27,500"
+    }
+  },
+  {
+    "Name": "Easter Guardian",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+16,500",
+      "Gems": "x31,250",
+      "Limited": true,
+      "Coins": "x33,500"
+    }
+  },
+  {
+    "Name": "Wolflord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+133,500",
+      "Gems": "x175,250",
+      "Limited": true,
+      "Coins": "x215,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Godly Gem",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+276,500",
+      "Gems": "x291,500",
+      "Limited": true,
+      "Coins": "x388,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Essence Bunny",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+115",
+      "Gems": "x80",
+      "Limited": false,
+      "Coins": "x65"
+    }
+  },
+  {
+    "Name": "Essence Deer",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+128",
+      "Gems": "x80",
+      "Limited": false,
+      "Coins": "x66"
+    }
+  },
+  {
+    "Name": "Blue Spirit",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+275",
+      "Gems": "x220",
+      "Limited": false,
+      "Coins": "x185"
+    }
+  },
+  {
+    "Name": "Pink Spirit",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+395",
+      "Gems": "x200",
+      "Limited": false,
+      "Coins": "x245"
+    }
+  },
+  {
+    "Name": "Essence Dragon",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+755",
+      "Gems": "x850",
+      "Limited": false,
+      "Coins": "x915"
+    }
+  },
+  {
+    "Name": "Eternal Lantern",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x55,000",
+      "Bubbles": "+70,100",
+      "Gems": "x175,250",
+      "Limited": false,
+      "Coins": "x205,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Eternal Lantern",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x137,500",
+      "Bubbles": "+175,250",
+      "Gems": "x438,125",
+      "Limited": false,
+      "Coins": "x514,375",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Twitter Dominus",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+125",
+      "Gems": "x150",
+      "Limited": true,
+      "Coins": "x150",
+      "Code": true
+    }
+  },
+  {
+    "Name": "Lightness",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+600",
+      "Gems": "x620",
+      "Limited": true,
+      "Coins": "x800"
+    }
+  },
+  {
+    "Name": "Darkness",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+700",
+      "Gems": "x700",
+      "Limited": true,
+      "Coins": "x700"
+    }
+  },
+  {
+    "Name": "Onyx",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+1,050",
+      "Gems": "x1,520",
+      "Limited": true,
+      "Coins": "x1,400"
+    }
+  },
+  {
+    "Name": "BRAINS",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+1,315",
+      "Gems": "x1,380",
+      "Limited": true,
+      "Coins": "x1,750"
+    }
+  },
+  {
+    "Name": "Skelly Marshmallow",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,660",
+      "Gems": "x2,600",
+      "Limited": true,
+      "Coins": "x3,700"
+    }
+  },
+  {
+    "Name": "Candle Phoenix",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,750",
+      "Gems": "x2,500",
+      "Limited": true,
+      "Coins": "x3,100"
+    }
+  },
+  {
+    "Name": "Crimson Eye",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+6,250",
+      "Gems": "x21,600",
+      "Limited": true,
+      "Coins": "x18,700"
+    }
+  },
+  {
+    "Name": "Mythic Crimson Eye",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+23,437.5",
+      "Gems": "x81,000",
+      "Limited": true,
+      "Coins": "x70,125"
+    }
+  },
+  {
+    "Name": "Equinox",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+9,000",
+      "Gems": "x36,800",
+      "Limited": true,
+      "Coins": "x32,100"
+    }
+  },
+  {
+    "Name": "Mythic Equinox",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+13,500",
+      "Gems": "x55,200",
+      "Limited": true,
+      "Coins": "x48,150"
+    }
+  },
+  {
+    "Name": "Witches Pot",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+11,350",
+      "Gems": "x49,160",
+      "Limited": true,
+      "Coins": "x43,700"
+    }
+  },
+  {
+    "Name": "Mythic Witches Pot",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+42,562.5",
+      "Gems": "x184,350",
+      "Limited": true,
+      "Coins": "x163,875"
+    }
+  },
+  {
+    "Name": "Sinister Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+326,500",
+      "Gems": "x212,600",
+      "Limited": true,
+      "Coins": "x215,290",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Sinister Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+966,250",
+      "Gems": "x768,500",
+      "Limited": true,
+      "Coins": "x846,112.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Sinister Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+527,500",
+      "Gems": "x597,400",
+      "Limited": true,
+      "Coins": "x588,445",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Sinister Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,068,750",
+      "Gems": "x1,243,500",
+      "Limited": true,
+      "Coins": "x1,221,112.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Angelic Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+527,500",
+      "Gems": "x597,400",
+      "Limited": true,
+      "Coins": "x588,445",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Angelic Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,068,750",
+      "Gems": "x1,243,500",
+      "Limited": true,
+      "Coins": "x1,221,112.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Wolf Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+527,500",
+      "Gems": "x597,400",
+      "Limited": true,
+      "Coins": "x588,445",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Wolf Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,068,750",
+      "Gems": "x1,243,500",
+      "Limited": true,
+      "Coins": "x1,221,112.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "King Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+527,500",
+      "Gems": "x597,400",
+      "Limited": true,
+      "Coins": "x588,445",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic King Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,068,750",
+      "Gems": "x1,243,500",
+      "Limited": true,
+      "Coins": "x1,221,112.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Guardian Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+527,500",
+      "Gems": "x597,400",
+      "Limited": true,
+      "Coins": "x588,445",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Guardian Skull",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,068,750",
+      "Gems": "x1,243,500",
+      "Limited": true,
+      "Coins": "x1,221,112.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Sinister Lord 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,250,000",
+      "Gems": "x1,182,500",
+      "Limited": true,
+      "Coins": "x1,242,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Sinister Lord 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,931,250",
+      "Gems": "x2,956,250",
+      "Limited": true,
+      "Coins": "x3,105,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Confetti Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+950",
+      "Gems": "x500",
+      "Limited": true,
+      "Coins": "x500"
+    }
+  },
+  {
+    "Name": "Confetti Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+950",
+      "Gems": "x500",
+      "Limited": true,
+      "Coins": "x500"
+    }
+  },
+  {
+    "Name": "Confetti Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+950",
+      "Gems": "x500",
+      "Limited": true,
+      "Coins": "x500"
+    }
+  },
+  {
+    "Name": "Confetti Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+1,450",
+      "Gems": "x800",
+      "Limited": true,
+      "Coins": "x800"
+    }
+  },
+  {
+    "Name": "Confetti Golem",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+2,150",
+      "Gems": "x1,200",
+      "Limited": true,
+      "Coins": "x1,200"
+    }
+  },
+  {
+    "Name": "Confetti Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+3,325",
+      "Gems": "x1,950",
+      "Limited": true,
+      "Coins": "x1,950"
+    }
+  },
+  {
+    "Name": "Release Elemental",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+12,250",
+      "Gems": "x10,250",
+      "Limited": true,
+      "Coins": "x95,500"
+    }
+  },
+  {
+    "Name": "Mythic Release Elemental",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+30,625",
+      "Gems": "x25,625",
+      "Limited": true,
+      "Coins": "x238,750"
+    }
+  },
+  {
+    "Name": "Release Overlord 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+24,750",
+      "Gems": "x27,150",
+      "Limited": true,
+      "Coins": "x12,500"
+    }
+  },
+  {
+    "Name": "Mythic Release Overlord 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+61,875",
+      "Gems": "x67,875",
+      "Limited": true,
+      "Coins": "x31,250"
+    }
+  },
+  {
+    "Name": "Release Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+77,500",
+      "Gems": "x42,750",
+      "Limited": true,
+      "Coins": "x69,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Release Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+193,750",
+      "Gems": "x106,875",
+      "Limited": true,
+      "Coins": "x172,875",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Release Trophy 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+92,250",
+      "Gems": "x72,750",
+      "Limited": true,
+      "Coins": "x89,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Release Trophy 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+230,625",
+      "Gems": "x181,875",
+      "Limited": true,
+      "Coins": "x222,875",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Release Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+123,500",
+      "Gems": "x107,500",
+      "Limited": true,
+      "Coins": "x115,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Release Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+308,750",
+      "Gems": "x268,750",
+      "Limited": true,
+      "Coins": "x287,875",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Release Robot",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+172,500",
+      "Gems": "x121,500",
+      "Limited": true,
+      "Coins": "x152,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Release Robot",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+431,250",
+      "Gems": "x303,750",
+      "Limited": true,
+      "Coins": "x380,375",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Zombie Cat",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+32",
+      "Gems": "x33",
+      "Limited": false,
+      "Coins": "x41"
+    }
+  },
+  {
+    "Name": "Demon Dog",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+38",
+      "Gems": "x35",
+      "Limited": false,
+      "Coins": "x36"
+    }
+  },
+  {
+    "Name": "Skeletal Deer",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+48",
+      "Gems": "x48",
+      "Limited": false,
+      "Coins": "x52"
+    }
+  },
+  {
+    "Name": "Nightmare Bat",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+65",
+      "Gems": "x105",
+      "Limited": false,
+      "Coins": "x75"
+    }
+  },
+  {
+    "Name": "Night Crawler",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+95",
+      "Gems": "x75",
+      "Limited": false,
+      "Coins": "x105"
+    }
+  },
+  {
+    "Name": "Hell Bat",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+210",
+      "Gems": "x185",
+      "Limited": false,
+      "Coins": "x345"
+    }
+  },
+  {
+    "Name": "Evil Butterfly",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+165",
+      "Gems": "x245",
+      "Limited": false,
+      "Coins": "x275"
+    }
+  },
+  {
+    "Name": "Green Hydra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+585",
+      "Gems": "x2,105",
+      "Limited": false,
+      "Coins": "x2,450"
+    }
+  },
+  {
+    "Name": "Demonic Hydra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+715",
+      "Gems": "x2,655",
+      "Limited": false,
+      "Coins": "x2,990"
+    }
+  },
+  {
+    "Name": "The Overlord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+55,450",
+      "Gems": "x16,666",
+      "Limited": false,
+      "Coins": "x24,085",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Toy Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+135",
+      "Gems": "x180",
+      "Limited": true,
+      "Coins": "x175",
+      "Code": true
+    }
+  },
+  {
+    "Name": "Toxic Elemental",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+37,500",
+      "Gems": "x55,000",
+      "Limited": true,
+      "Coins": "x55,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Beta Dominus",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+105",
+      "Gems": "x105",
+      "Limited": true,
+      "Coins": "x105",
+      "Beta": true
+    }
+  },
+  {
+    "Name": "Slushy Deer",
+    "Data": {
+      "Rarity": "Common",
+      "Candy": "x650",
+      "Bubbles": "+740",
+      "Gems": "x680",
+      "Limited": false,
+      "Coins": "x810"
+    }
+  },
+  {
+    "Name": "Slushy Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Candy": "x700",
+      "Bubbles": "+1,080",
+      "Gems": "x710",
+      "Limited": false,
+      "Coins": "x980"
+    }
+  },
+  {
+    "Name": "Splash Fox",
+    "Data": {
+      "Rarity": "Unique",
+      "Candy": "x725",
+      "Bubbles": "+1,189",
+      "Gems": "x820",
+      "Limited": false,
+      "Coins": "x980"
+    }
+  },
+  {
+    "Name": "Rainbow Bat",
+    "Data": {
+      "Rarity": "Rare",
+      "Candy": "x900",
+      "Bubbles": "+1,240",
+      "Gems": "x940",
+      "Limited": false,
+      "Coins": "x1,120"
+    }
+  },
+  {
+    "Name": "Rainbow Demon",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x1,600",
+      "Bubbles": "+3,250",
+      "Gems": "x2,850",
+      "Limited": false,
+      "Coins": "x3,080"
+    }
+  },
+  {
+    "Name": "Rainbow Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x1,700",
+      "Bubbles": "+2,950",
+      "Gems": "x2,550",
+      "Limited": false,
+      "Coins": "x2,700"
+    }
+  },
+  {
+    "Name": "Rainbow Marshmallow",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x2,300",
+      "Bubbles": "+5,150",
+      "Gems": "x4,750",
+      "Limited": false,
+      "Coins": "x4,850"
+    }
+  },
+  {
+    "Name": "Rainbow Winged Hydra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x3,400",
+      "Bubbles": "+7,550",
+      "Gems": "x6,050",
+      "Limited": false,
+      "Coins": "x6,850"
+    }
+  },
+  {
+    "Name": "Lollipop Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x125,000",
+      "Bubbles": "+71,764",
+      "Gems": "x141,666",
+      "Limited": false,
+      "Coins": "x165,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Lollipop Basilisk",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x312,500",
+      "Bubbles": "+179,410",
+      "Gems": "x354,165",
+      "Limited": false,
+      "Coins": "x412,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mutant Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+200",
+      "Gems": "x200",
+      "Limited": false,
+      "Coins": "x250"
+    }
+  },
+  {
+    "Name": "Mutant Bat",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+335",
+      "Gems": "x445",
+      "Limited": false,
+      "Coins": "x415"
+    }
+  },
+  {
+    "Name": "Mutant Penguin",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+415",
+      "Gems": "x490",
+      "Limited": false,
+      "Coins": "x565"
+    }
+  },
+  {
+    "Name": "Mutant Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+585",
+      "Gems": "x715",
+      "Limited": false,
+      "Coins": "x650"
+    }
+  },
+  {
+    "Name": "King Eye",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,150",
+      "Gems": "x5,905",
+      "Limited": false,
+      "Coins": "x5,225"
+    }
+  },
+  {
+    "Name": "Super Hexarium",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+3,725",
+      "Gems": "x10,000",
+      "Limited": false,
+      "Coins": "x9,500"
+    }
+  },
+  {
+    "Name": "Ghosdeeri",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,114,600",
+      "Gems": "x1,515,700",
+      "Limited": true,
+      "Coins": "x1,475,590",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Ghosdeeri",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+6,171,900",
+      "Gems": "x5,773,550",
+      "Limited": true,
+      "Coins": "x5,713,385",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Radiance",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,857,000",
+      "Gems": "x2,430,000",
+      "Limited": false,
+      "Coins": "x2,223,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Cherry Dino",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+51",
+      "Gems": "x52",
+      "Limited": false,
+      "Coins": "x63"
+    }
+  },
+  {
+    "Name": "Cherry Golem",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+47",
+      "Gems": "x47",
+      "Limited": false,
+      "Coins": "x58"
+    }
+  },
+  {
+    "Name": "Orange Deer",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+137",
+      "Gems": "x126",
+      "Limited": false,
+      "Coins": "x97"
+    }
+  },
+  {
+    "Name": "Lemon Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+245",
+      "Gems": "x195",
+      "Limited": false,
+      "Coins": "x135"
+    }
+  },
+  {
+    "Name": "Lime Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+475",
+      "Gems": "x455",
+      "Limited": false,
+      "Coins": "x305"
+    }
+  },
+  {
+    "Name": "Lime Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+505",
+      "Gems": "x495",
+      "Limited": false,
+      "Coins": "x495"
+    }
+  },
+  {
+    "Name": "Hexarium",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,315",
+      "Gems": "x2,135",
+      "Limited": false,
+      "Coins": "x1,570"
+    }
+  },
+  {
+    "Name": "Rainbow Shock",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+3,555",
+      "Gems": "x3,250",
+      "Limited": false,
+      "Coins": "x2,005"
+    }
+  },
+  {
+    "Name": "Easter Basket",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+24,500",
+      "Gems": "x32,750",
+      "Limited": true,
+      "Coins": "x49,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Magma Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+5",
+      "Gems": "x7",
+      "Limited": false,
+      "Coins": "x6"
+    }
+  },
+  {
+    "Name": "Fire Fox",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+7",
+      "Gems": "x8",
+      "Limited": false,
+      "Coins": "x9"
+    }
+  },
+  {
+    "Name": "Fire Piggy",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+7",
+      "Gems": "x5",
+      "Limited": false,
+      "Coins": "x15"
+    }
+  },
+  {
+    "Name": "Fire Deer",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+5",
+      "Gems": "x14",
+      "Limited": false,
+      "Coins": "x15"
+    }
+  },
+  {
+    "Name": "Lava Bear",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+15",
+      "Gems": "x14",
+      "Limited": false,
+      "Coins": "x22"
+    }
+  },
+  {
+    "Name": "Demon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+66",
+      "Gems": "x66",
+      "Limited": false,
+      "Coins": "x66"
+    }
+  },
+  {
+    "Name": "Inferno Dragon",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+115",
+      "Gems": "x205",
+      "Limited": false,
+      "Coins": "x195"
+    }
+  },
+  {
+    "Name": "Electra Hydra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+200,000",
+      "Gems": "x276,000",
+      "Limited": true,
+      "Coins": "x325,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Atlantis Guardian",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,125",
+      "Gems": "x3,000",
+      "Limited": false,
+      "Coins": "x3,250",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Yin Yang",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+6,750",
+      "Gems": "x31,500",
+      "Limited": false,
+      "Coins": "x18,550",
+      "Bubble Pass": true
+    }
+  },
+  {
+    "Name": "SealWolf",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+554,500",
+      "Gems": "x532,750",
+      "Limited": true,
+      "Coins": "x549,150",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Christmas Elemental",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+40,500",
+      "Gems": "x110,500",
+      "Limited": false,
+      "Coins": "x125,500",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Shroomdog",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+290",
+      "Gems": "x325",
+      "Limited": false,
+      "Coins": "x335"
+    }
+  },
+  {
+    "Name": "Shroomcat",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+350",
+      "Gems": "x310",
+      "Limited": false,
+      "Coins": "x400"
+    }
+  },
+  {
+    "Name": "Fungi Fox",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+485",
+      "Gems": "x430",
+      "Limited": false,
+      "Coins": "x555"
+    }
+  },
+  {
+    "Name": "Fungi Bat",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+615",
+      "Gems": "x590",
+      "Limited": false,
+      "Coins": "x735"
+    }
+  },
+  {
+    "Name": "Fungi Butterfly",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+780",
+      "Gems": "x800",
+      "Limited": false,
+      "Coins": "x955"
+    }
+  },
+  {
+    "Name": "Spore Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+700",
+      "Gems": "x950",
+      "Limited": false,
+      "Coins": "x910"
+    }
+  },
+  {
+    "Name": "Spore Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,115",
+      "Gems": "x3,935",
+      "Limited": false,
+      "Coins": "x4,825"
+    }
+  },
+  {
+    "Name": "Demilord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+4,205",
+      "Gems": "x8,450",
+      "Limited": false,
+      "Coins": "x9,310"
+    }
+  },
+  {
+    "Name": "Demon Snake",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,750",
+      "Gems": "x11,150",
+      "Limited": false,
+      "Coins": "x10,050"
+    }
+  },
+  {
+    "Name": "King Mush",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x75,000",
+      "Bubbles": "+112,500",
+      "Gems": "x108,710",
+      "Limited": false,
+      "Coins": "x90,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Eternal Star",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x386,664",
+      "Bubbles": "+111,110",
+      "Gems": "x133,332",
+      "Limited": false,
+      "Coins": "x62,202",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Gummy Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Candy": "x1",
+      "Bubbles": "+50",
+      "Gems": "x55",
+      "Limited": false,
+      "Coins": "x60"
+    }
+  },
+  {
+    "Name": "Gummy Kitty",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+75",
+      "Gems": "x87",
+      "Limited": false,
+      "Coins": "x94"
+    }
+  },
+  {
+    "Name": "Sweet Crawler",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+165",
+      "Gems": "x123",
+      "Limited": false,
+      "Coins": "x143"
+    }
+  },
+  {
+    "Name": "Candy Demon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+285",
+      "Gems": "x585",
+      "Limited": false,
+      "Coins": "x355"
+    }
+  },
+  {
+    "Name": "Candy Piggy Stack",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+315",
+      "Gems": "x525",
+      "Limited": false,
+      "Coins": "x585"
+    }
+  },
+  {
+    "Name": "Jelly Dualcorn",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+942",
+      "Gems": "x2,825",
+      "Limited": false,
+      "Coins": "x3,455"
+    }
+  },
+  {
+    "Name": "Jelly Overlord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,205",
+      "Gems": "x3,725",
+      "Limited": false,
+      "Coins": "x4,560"
+    }
+  },
+  {
+    "Name": "Dogcat 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x167,500",
+      "Bubbles": "+115,000",
+      "Gems": "x185,250",
+      "Limited": false,
+      "Coins": "x195,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Dogcat 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x418,750",
+      "Bubbles": "+287,500",
+      "Gems": "x463,125",
+      "Limited": false,
+      "Coins": "x489,375",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Beta TV",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+65,000",
+      "Gems": "x99,000",
+      "Limited": true,
+      "Coins": "x99,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Frost Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+3",
+      "Gems": "x6",
+      "Limited": false,
+      "Coins": "x5"
+    }
+  },
+  {
+    "Name": "Deer",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+3",
+      "Gems": "x6",
+      "Limited": false,
+      "Coins": "x7"
+    }
+  },
+  {
+    "Name": "Frost Wolf",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+7",
+      "Gems": "x6",
+      "Limited": false,
+      "Coins": "x5"
+    }
+  },
+  {
+    "Name": "Piggy",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+11",
+      "Gems": "x6",
+      "Limited": false,
+      "Coins": "x9"
+    }
+  },
+  {
+    "Name": "Frost Deer",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+26",
+      "Gems": "x19",
+      "Limited": false,
+      "Coins": "x15"
+    }
+  },
+  {
+    "Name": "Ice Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+43",
+      "Gems": "x38",
+      "Limited": false,
+      "Coins": "x28"
+    }
+  },
+  {
+    "Name": "Fortune",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+45,000",
+      "Gems": "x37,000",
+      "Limited": true,
+      "Coins": "x35,000"
+    }
+  },
+  {
+    "Name": "Mythic Fortune",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+67,500",
+      "Gems": "x55,500",
+      "Limited": true,
+      "Coins": "x52,500"
+    }
+  },
+  {
+    "Name": "Fluffy Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+310",
+      "Gems": "x292",
+      "Limited": false,
+      "Coins": "x285"
+    }
+  },
+  {
+    "Name": "Fluffy Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+360",
+      "Gems": "x330",
+      "Limited": false,
+      "Coins": "x395"
+    }
+  },
+  {
+    "Name": "Fluffy Bunny",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+535",
+      "Gems": "x510",
+      "Limited": false,
+      "Coins": "x650"
+    }
+  },
+  {
+    "Name": "Sheep",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+645",
+      "Gems": "x590",
+      "Limited": false,
+      "Coins": "x775"
+    }
+  },
+  {
+    "Name": "Pastel Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+800",
+      "Gems": "x855",
+      "Limited": false,
+      "Coins": "x945"
+    }
+  },
+  {
+    "Name": "Pastel Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+900",
+      "Gems": "x915",
+      "Limited": false,
+      "Coins": "x950"
+    }
+  },
+  {
+    "Name": "Pastel Phoenix",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,850",
+      "Gems": "x6,335",
+      "Limited": false,
+      "Coins": "x6,125"
+    }
+  },
+  {
+    "Name": "Mythic Pastel Phoenix",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+10,687.5",
+      "Gems": "x23,756.25",
+      "Limited": false,
+      "Coins": "x22,968.75"
+    }
+  },
+  {
+    "Name": "Abyss",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x2,750",
+      "Bubbles": "+4,995",
+      "Gems": "x13,150",
+      "Limited": false,
+      "Coins": "x12,210"
+    }
+  },
+  {
+    "Name": "Mythic Abyss",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x18,750",
+      "Bubbles": "+18,731.25",
+      "Gems": "x49,312.5",
+      "Limited": false,
+      "Coins": "x45,787.5"
+    }
+  },
+  {
+    "Name": "Pastel Hexarium",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x5,850",
+      "Bubbles": "+7,205",
+      "Gems": "x19,550",
+      "Limited": false,
+      "Coins": "x17,535"
+    }
+  },
+  {
+    "Name": "Mythic Pastel Hexarium",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x31,250",
+      "Bubbles": "+27,018.75",
+      "Gems": "x73,312.5",
+      "Limited": false,
+      "Coins": "x65,756.25"
+    }
+  },
+  {
+    "Name": "Crystal Teddy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x62,500",
+      "Bubbles": "+95,000",
+      "Gems": "x99,332",
+      "Limited": false,
+      "Coins": "x113,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Crystal Teddy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x15,000",
+      "Bubbles": "+218,750",
+      "Gems": "x20,000",
+      "Limited": false,
+      "Coins": "x23,800",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Golem",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+3",
+      "Gems": "x2",
+      "Limited": false,
+      "Coins": "x4"
+    }
+  },
+  {
+    "Name": "Dino",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+3",
+      "Gems": "x3",
+      "Limited": false,
+      "Coins": "x2"
+    }
+  },
+  {
+    "Name": "Ruby Golem",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+4",
+      "Gems": "x6",
+      "Limited": false,
+      "Coins": "x5"
+    }
+  },
+  {
+    "Name": "Dragon",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+12",
+      "Gems": "x8",
+      "Limited": false,
+      "Coins": "x14"
+    }
+  },
+  {
+    "Name": "Dark Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+16",
+      "Gems": "x15",
+      "Limited": false,
+      "Coins": "x22"
+    }
+  },
+  {
+    "Name": "Emerald Golem",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+60",
+      "Gems": "x115",
+      "Limited": false,
+      "Coins": "x215"
+    }
+  },
+  {
+    "Name": "Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+285,000",
+      "Gems": "x91,250",
+      "Limited": true,
+      "Coins": "x112,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+428,998.5",
+      "Gems": "x136,948.5",
+      "Limited": true,
+      "Coins": "x16,948.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "DevPet",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+15,000,000",
+      "Gems": "x5,000,000",
+      "Limited": true,
+      "Coins": "x5,000,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Delightful King",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+71,000",
+      "Gems": "x71,000",
+      "Limited": true,
+      "Coins": "x68,000"
+    }
+  },
+  {
+    "Name": "Strawberry Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Candy": "x75",
+      "Bubbles": "+280",
+      "Gems": "x290",
+      "Limited": false,
+      "Coins": "x250"
+    }
+  },
+  {
+    "Name": "Minty Kitty",
+    "Data": {
+      "Rarity": "Unique",
+      "Candy": "x100",
+      "Bubbles": "+330",
+      "Gems": "x270",
+      "Limited": false,
+      "Coins": "x310"
+    }
+  },
+  {
+    "Name": "Blueberry Deer",
+    "Data": {
+      "Rarity": "Unique",
+      "Candy": "x150",
+      "Bubbles": "+520",
+      "Gems": "x420",
+      "Limited": false,
+      "Coins": "x430"
+    }
+  },
+  {
+    "Name": "Chocolate Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Candy": "x225",
+      "Bubbles": "+780",
+      "Gems": "x530",
+      "Limited": false,
+      "Coins": "x610"
+    }
+  },
+  {
+    "Name": "Strawberry Bat",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x300",
+      "Bubbles": "+1,250",
+      "Gems": "x800",
+      "Limited": false,
+      "Coins": "x920"
+    }
+  },
+  {
+    "Name": "Lemon Bat",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x425",
+      "Bubbles": "+1,150",
+      "Gems": "x900",
+      "Limited": false,
+      "Coins": "x1,050"
+    }
+  },
+  {
+    "Name": "Gummy King",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x126,666",
+      "Bubbles": "+272,500",
+      "Gems": "x136,666",
+      "Limited": false,
+      "Coins": "x156,166",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Gummy King",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x316,665",
+      "Bubbles": "+681,250",
+      "Gems": "x341,665",
+      "Limited": false,
+      "Coins": "x390,415",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Leaf Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+500",
+      "Gems": "x600",
+      "Limited": true,
+      "Coins": "x700"
+    }
+  },
+  {
+    "Name": "Leaf Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+510",
+      "Gems": "x595",
+      "Limited": true,
+      "Coins": "x585"
+    }
+  },
+  {
+    "Name": "Corn",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+905",
+      "Gems": "x1,390",
+      "Limited": true,
+      "Coins": "x1,200"
+    }
+  },
+  {
+    "Name": "Squirrel",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+985",
+      "Gems": "x1,200",
+      "Limited": true,
+      "Coins": "x1,345"
+    }
+  },
+  {
+    "Name": "Moose",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,290",
+      "Gems": "x2,515",
+      "Limited": true,
+      "Coins": "x2,250"
+    }
+  },
+  {
+    "Name": "Demon Tree",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,450",
+      "Gems": "x19,500",
+      "Limited": true,
+      "Coins": "x16,140"
+    }
+  },
+  {
+    "Name": "Mythic Demon Tree",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+8,175",
+      "Gems": "x29,250",
+      "Limited": true,
+      "Coins": "x24,210"
+    }
+  },
+  {
+    "Name": "Crystal Acorn",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+8,100",
+      "Gems": "x32,260",
+      "Limited": true,
+      "Coins": "x30,000"
+    }
+  },
+  {
+    "Name": "Mythic Crystal Acorn",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+12,150",
+      "Gems": "x48,390",
+      "Limited": true,
+      "Coins": "x45,000"
+    }
+  },
+  {
+    "Name": "Lucid Leaf",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+218,115",
+      "Gems": "x191,150",
+      "Limited": true,
+      "Coins": "x180,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Lucid Leaf",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+527,172.5",
+      "Gems": "x236,725",
+      "Limited": true,
+      "Coins": "x420,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Twitch Golem",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+7",
+      "Gems": "x11",
+      "Limited": false,
+      "Coins": "x14",
+      "Code": true
+    }
+  },
+  {
+    "Name": "Twitch Kitty",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+4",
+      "Gems": "x3",
+      "Limited": false,
+      "Coins": "x4",
+      "Code": true
+    }
+  },
+  {
+    "Name": "Mossy Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+65",
+      "Gems": "x35",
+      "Limited": false,
+      "Coins": "x40"
+    }
+  },
+  {
+    "Name": "Mossy Mouse",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+70",
+      "Gems": "x48",
+      "Limited": false,
+      "Coins": "x30"
+    }
+  },
+  {
+    "Name": "Mossy Wolf",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+90",
+      "Gems": "x78",
+      "Limited": false,
+      "Coins": "x75"
+    }
+  },
+  {
+    "Name": "Mossy Deer",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+125",
+      "Gems": "x105",
+      "Limited": false,
+      "Coins": "x92"
+    }
+  },
+  {
+    "Name": "Giant Mossy Chicken",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x290,000",
+      "Bubbles": "+332,500",
+      "Gems": "x305,000",
+      "Limited": false,
+      "Coins": "x334,250",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Tormentor",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+6,000,000",
+      "Gems": "x4,500,000",
+      "Limited": true,
+      "Coins": "x4,500,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Dark Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+93,500",
+      "Gems": "x115,000",
+      "Limited": true,
+      "Coins": "x115,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Grimace Shake",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,500,000",
+      "Gems": "x1,500,000",
+      "Limited": true,
+      "Coins": "x1,500,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Sea Urchin",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,050",
+      "Gems": "x3,025",
+      "Limited": false,
+      "Coins": "x3,115",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Merry Marshmallow",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+49,500",
+      "Gems": "x62,500",
+      "Limited": true,
+      "Coins": "x62,500"
+    }
+  },
+  {
+    "Name": "Infernus",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+72,500",
+      "Gems": "x91,500",
+      "Limited": true,
+      "Coins": "x91,500",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Enraged Phoenix",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+131,500",
+      "Gems": "x167,000",
+      "Limited": true,
+      "Coins": "x198,500",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Dowodle",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+198,000",
+      "Gems": "x145,000",
+      "Limited": true,
+      "Coins": "x150,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Orange Dominus",
+    "Data": {
+      "Rarity": "Common",
+      "Candy": "x900",
+      "Bubbles": "+1,570",
+      "Gems": "x1,210",
+      "Limited": false,
+      "Coins": "x1,420"
+    }
+  },
+  {
+    "Name": "Grape Dominus",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+1,110",
+      "Gems": "x1,020",
+      "Limited": false,
+      "Coins": "x1,050"
+    }
+  },
+  {
+    "Name": "Gloomy Dominus",
+    "Data": {
+      "Rarity": "Rare",
+      "Candy": "x1,255",
+      "Bubbles": "+1,520",
+      "Gems": "x1,250",
+      "Limited": false,
+      "Coins": "x1,430"
+    }
+  },
+  {
+    "Name": "Angelic Dominus",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x2,500",
+      "Bubbles": "+2,250",
+      "Gems": "x1,750",
+      "Limited": false,
+      "Coins": "x1,950"
+    }
+  },
+  {
+    "Name": "Demonic Dominus",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x2,900",
+      "Bubbles": "+3,440",
+      "Gems": "x2,000",
+      "Limited": false,
+      "Coins": "x2,650"
+    }
+  },
+  {
+    "Name": "Frost Dominus",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x2,700",
+      "Bubbles": "+4,000",
+      "Gems": "x2,625",
+      "Limited": false,
+      "Coins": "x3,355"
+    }
+  },
+  {
+    "Name": "Dominus Hydra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x4,500",
+      "Bubbles": "+5,205",
+      "Gems": "x3,525",
+      "Limited": false,
+      "Coins": "x4,360"
+    }
+  },
+  {
+    "Name": "OwOlord 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x105,833",
+      "Bubbles": "+58,166",
+      "Gems": "x120,833",
+      "Limited": false,
+      "Coins": "x143,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic OwOlord 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x264,582.5",
+      "Bubbles": "+180,415",
+      "Gems": "x302,082.5",
+      "Limited": false,
+      "Coins": "x359,375",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Hell Piggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+37",
+      "Gems": "x36",
+      "Limited": false,
+      "Coins": "x45"
+    }
+  },
+  {
+    "Name": "Hell Dragon",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+44",
+      "Gems": "x56",
+      "Limited": false,
+      "Coins": "x52"
+    }
+  },
+  {
+    "Name": "Hell Crawler",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+195",
+      "Gems": "x145",
+      "Limited": false,
+      "Coins": "x120"
+    }
+  },
+  {
+    "Name": "Inferno Demon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,195",
+      "Gems": "x902",
+      "Limited": false,
+      "Coins": "x867"
+    }
+  },
+  {
+    "Name": "Inferno Cube",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,305",
+      "Gems": "x1,145",
+      "Limited": false,
+      "Coins": "x985"
+    }
+  },
+  {
+    "Name": "Magenta Cube",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,575",
+      "Gems": "x1,060",
+      "Limited": false,
+      "Coins": "x895"
+    }
+  },
+  {
+    "Name": "Virus",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,950",
+      "Gems": "x1,515",
+      "Limited": false,
+      "Coins": "x1,350"
+    }
+  },
+  {
+    "Name": "Hell Myriad",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+53,850",
+      "Gems": "x45,500",
+      "Limited": true,
+      "Coins": "x35,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Bronze Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+18",
+      "Gems": "x19",
+      "Limited": true,
+      "Coins": "x24"
+    }
+  },
+  {
+    "Name": "Bronze Mouse",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+22",
+      "Gems": "x24",
+      "Limited": true,
+      "Coins": "x17"
+    }
+  },
+  {
+    "Name": "Silver Bat",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+1,500",
+      "Gems": "x420",
+      "Limited": true,
+      "Coins": "x260"
+    }
+  },
+  {
+    "Name": "Silver Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+2,000",
+      "Gems": "x800",
+      "Limited": true,
+      "Coins": "x850"
+    }
+  },
+  {
+    "Name": "Cupcake",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+1,700",
+      "Gems": "x900",
+      "Limited": true,
+      "Coins": "x1,125"
+    }
+  },
+  {
+    "Name": "Party Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+2,500",
+      "Gems": "x1,000",
+      "Limited": true,
+      "Coins": "x1,220"
+    }
+  },
+  {
+    "Name": "Evil Marsh",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,500",
+      "Gems": "x4,350",
+      "Limited": true,
+      "Coins": "x5,375"
+    }
+  },
+  {
+    "Name": "Ice Winged Hydra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+8,150",
+      "Gems": "x5,350",
+      "Limited": true,
+      "Coins": "x7,375"
+    }
+  },
+  {
+    "Name": "Queen Overlord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+12,500",
+      "Gems": "x9,000",
+      "Limited": true,
+      "Coins": "x15,250"
+    }
+  },
+  {
+    "Name": "Pot O' Gold",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+69,750",
+      "Gems": "x75,000",
+      "Limited": true,
+      "Coins": "x89,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Trophy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+81,500",
+      "Gems": "x92,500",
+      "Limited": true,
+      "Coins": "x112,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Giant Robot",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+110,500",
+      "Gems": "x112,500",
+      "Limited": true,
+      "Coins": "x152,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Leviathan",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+210,000",
+      "Gems": "x235,000",
+      "Limited": true,
+      "Coins": "x205,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Bronze Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+45",
+      "Gems": "x39",
+      "Limited": false,
+      "Coins": "x42"
+    }
+  },
+  {
+    "Name": "Bronze Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+51",
+      "Gems": "x30",
+      "Limited": false,
+      "Coins": "x41"
+    }
+  },
+  {
+    "Name": "Silver Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+95",
+      "Gems": "x71",
+      "Limited": false,
+      "Coins": "x75"
+    }
+  },
+  {
+    "Name": "Gold Bull",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+155",
+      "Gems": "x135",
+      "Limited": false,
+      "Coins": "x145"
+    }
+  },
+  {
+    "Name": "Diamond Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+315",
+      "Gems": "x280",
+      "Limited": false,
+      "Coins": "x215"
+    }
+  },
+  {
+    "Name": "Diamond Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+355",
+      "Gems": "x225",
+      "Limited": false,
+      "Coins": "x395"
+    }
+  },
+  {
+    "Name": "Platinum Cube",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+4,975",
+      "Gems": "x21,895",
+      "Limited": false,
+      "Coins": "x10,175"
+    }
+  },
+  {
+    "Name": "Platinum Dualcorn",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+9,425",
+      "Gems": "x27,015",
+      "Limited": false,
+      "Coins": "x14,050"
+    }
+  },
+  {
+    "Name": "Platinum Overlord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+12,350",
+      "Gems": "x49,175",
+      "Limited": false,
+      "Coins": "x3,150"
+    }
+  },
+  {
+    "Name": "Soul Heart",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+101,150",
+      "Gems": "x150,555",
+      "Limited": true,
+      "Coins": "x70,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Kraken",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+134,555",
+      "Gems": "x250,000",
+      "Limited": false,
+      "Coins": "x170,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Sinister Lord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+151,150",
+      "Gems": "x266,050",
+      "Limited": false,
+      "Coins": "x220,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Lucky Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+900",
+      "Gems": "x300",
+      "Limited": false,
+      "Coins": "x700"
+    }
+  },
+  {
+    "Name": "Lucky Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+1,000",
+      "Gems": "x400",
+      "Limited": true,
+      "Coins": "x600"
+    }
+  },
+  {
+    "Name": "Lucky Bear",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+2,500",
+      "Gems": "x1,000",
+      "Limited": false,
+      "Coins": "x1,250"
+    }
+  },
+  {
+    "Name": "Lucky Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+5,000",
+      "Gems": "x2,000",
+      "Limited": false,
+      "Coins": "x2,300"
+    }
+  },
+  {
+    "Name": "Lucky Star",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+25,000",
+      "Gems": "x13,000",
+      "Limited": true,
+      "Coins": "x16,000"
+    }
+  },
+  {
+    "Name": "Glorius Clove",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+40,000",
+      "Gems": "x16,000",
+      "Limited": true,
+      "Coins": "x20,000"
+    }
+  },
+  {
+    "Name": "Lucky Divinity",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+60,000",
+      "Gems": "x19,000",
+      "Limited": true,
+      "Coins": "x25,000"
+    }
+  },
+  {
+    "Name": "Luck Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+250,000",
+      "Gems": "x85,000",
+      "Limited": true,
+      "Coins": "x100,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Dream Catcher",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+325,000",
+      "Gems": "x106,250",
+      "Limited": true,
+      "Coins": "x135,165",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Dream Catcher",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+487,500",
+      "Gems": "x159,375",
+      "Limited": true,
+      "Coins": "x202,747.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Unlucky Revenger",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+500,000",
+      "Gems": "x125,000",
+      "Limited": true,
+      "Coins": "x150,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Unlucky Clover",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+650,000",
+      "Gems": "x155,000",
+      "Limited": true,
+      "Coins": "x185,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Lucky Pyramidium",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+847,500",
+      "Gems": "x283,665.5",
+      "Limited": true,
+      "Coins": "x331,165.5",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Lucky Pyramidium",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,271,250",
+      "Gems": "x425,498.25",
+      "Limited": true,
+      "Coins": "x496,748.25",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Ultima",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+224,000",
+      "Gems": "x259,000",
+      "Limited": true,
+      "Coins": "x314,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Ultima",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+560,000",
+      "Gems": "x647,500",
+      "Limited": true,
+      "Coins": "x785,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "10k Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+1,750",
+      "Gems": "x1,000",
+      "Limited": true,
+      "Coins": "x1,000"
+    }
+  },
+  {
+    "Name": "10k Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+1,750",
+      "Gems": "x1,000",
+      "Limited": true,
+      "Coins": "x1,000"
+    }
+  },
+  {
+    "Name": "10k Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+1,750",
+      "Gems": "x1,000",
+      "Limited": true,
+      "Coins": "x1,000"
+    }
+  },
+  {
+    "Name": "10k Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+19,550",
+      "Gems": "x1,525",
+      "Limited": true,
+      "Coins": "x1,525"
+    }
+  },
+  {
+    "Name": "10k Dragon",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+2,125",
+      "Gems": "x1,950",
+      "Limited": true,
+      "Coins": "x1,950"
+    }
+  },
+  {
+    "Name": "10k Golem",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+3,250",
+      "Gems": "x2,950",
+      "Limited": true,
+      "Coins": "x2,950"
+    }
+  },
+  {
+    "Name": "10k Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+7,525",
+      "Gems": "x10,950",
+      "Limited": true,
+      "Coins": "x16,250"
+    }
+  },
+  {
+    "Name": "Mythic 10k Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+18,812.5",
+      "Gems": "x27,375",
+      "Limited": true,
+      "Coins": "x40,625"
+    }
+  },
+  {
+    "Name": "10k Shock",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+10,250",
+      "Gems": "x18,250",
+      "Limited": true,
+      "Coins": "x26,950"
+    }
+  },
+  {
+    "Name": "Mythic 10k Shock",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+25,625",
+      "Gems": "x45,625",
+      "Limited": true,
+      "Coins": "x67,375"
+    }
+  },
+  {
+    "Name": "10k Overlord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+15,250",
+      "Gems": "x24,650",
+      "Limited": true,
+      "Coins": "x33,525"
+    }
+  },
+  {
+    "Name": "Mythic 10k Overlord",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+38,125",
+      "Gems": "x61,625",
+      "Limited": true,
+      "Coins": "x83,812.5"
+    }
+  },
+  {
+    "Name": "Crystal Slime",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+651,500",
+      "Gems": "x578,500",
+      "Limited": true,
+      "Coins": "x597,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Crystal Slime",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,153,750",
+      "Gems": "x696,250",
+      "Limited": true,
+      "Coins": "x743,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Flower Star",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+678,500",
+      "Gems": "x508,500",
+      "Limited": true,
+      "Coins": "x528,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Flower Star",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,743,750",
+      "Gems": "x1,271,250",
+      "Limited": true,
+      "Coins": "x1,321,250",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Star Guardian",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+700,500",
+      "Gems": "x614,150",
+      "Limited": true,
+      "Coins": "x645,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Star Guardian",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,851,250",
+      "Gems": "x1,535,375",
+      "Limited": true,
+      "Coins": "x1,612,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Royal Crown",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+927,500",
+      "Gems": "x848,500",
+      "Limited": true,
+      "Coins": "x865,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Royal Crown",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,018,750",
+      "Gems": "x1,871,250",
+      "Limited": true,
+      "Coins": "x1,912,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Void Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+18",
+      "Gems": "x19",
+      "Limited": false,
+      "Coins": "x16"
+    }
+  },
+  {
+    "Name": "Void Deer",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+22",
+      "Gems": "x15",
+      "Limited": false,
+      "Coins": "x19"
+    }
+  },
+  {
+    "Name": "Void Bat",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+26",
+      "Gems": "x31",
+      "Limited": false,
+      "Coins": "x28"
+    }
+  },
+  {
+    "Name": "Void Bear",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+65",
+      "Gems": "x35",
+      "Limited": false,
+      "Coins": "x70"
+    }
+  },
+  {
+    "Name": "Void Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+55",
+      "Gems": "x40",
+      "Limited": false,
+      "Coins": "x60"
+    }
+  },
+  {
+    "Name": "Void Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+295",
+      "Gems": "x200",
+      "Limited": false,
+      "Coins": "x180"
+    }
+  },
+  {
+    "Name": "Void Demon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+645",
+      "Gems": "x425",
+      "Limited": false,
+      "Coins": "x365"
+    }
+  },
+  {
+    "Name": "Dark Phoenix",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,165",
+      "Gems": "x1,045",
+      "Limited": false,
+      "Coins": "x950"
+    }
+  },
+  {
+    "Name": "Neon Elemental",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,675",
+      "Gems": "x1,350",
+      "Limited": false,
+      "Coins": "x1,110"
+    }
+  },
+  {
+    "Name": "Void Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+53,850",
+      "Gems": "x45,000",
+      "Limited": true,
+      "Coins": "x35,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Unidoggy",
+    "Data": {
+      "Rarity": "Common",
+      "Crystals": "x193",
+      "Bubbles": "+230",
+      "Gems": "x222",
+      "Limited": false,
+      "Coins": "x265"
+    }
+  },
+  {
+    "Name": "Unikitty",
+    "Data": {
+      "Rarity": "Common",
+      "Crystals": "x23",
+      "Bubbles": "+250",
+      "Gems": "x210",
+      "Limited": false,
+      "Coins": "x285"
+    }
+  },
+  {
+    "Name": "Unifox",
+    "Data": {
+      "Rarity": "Unique",
+      "Crystals": "x44",
+      "Bubbles": "+350",
+      "Gems": "x310",
+      "Limited": false,
+      "Coins": "x415"
+    }
+  },
+  {
+    "Name": "Unideer",
+    "Data": {
+      "Rarity": "Rare",
+      "Crystals": "x65",
+      "Bubbles": "+445",
+      "Gems": "x390",
+      "Limited": false,
+      "Coins": "x575"
+    }
+  },
+  {
+    "Name": "Horse",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+605",
+      "Gems": "x555",
+      "Limited": false,
+      "Coins": "x695"
+    }
+  },
+  {
+    "Name": "Unihorse",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+685",
+      "Gems": "x715",
+      "Limited": false,
+      "Coins": "x650"
+    }
+  },
+  {
+    "Name": "Fox Mutant",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,915",
+      "Gems": "x3,035",
+      "Limited": false,
+      "Coins": "x4,125"
+    }
+  },
+  {
+    "Name": "Wraith",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+3,990",
+      "Gems": "x7,950",
+      "Limited": false,
+      "Coins": "x8,110"
+    }
+  },
+  {
+    "Name": "Prisma",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,495",
+      "Gems": "x10,450",
+      "Limited": false,
+      "Coins": "x9,735"
+    }
+  },
+  {
+    "Name": "Earth Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x58,000",
+      "Bubbles": "+70,050",
+      "Gems": "x51,995",
+      "Limited": false,
+      "Coins": "x42,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Dark Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x72,500",
+      "Bubbles": "+70,050",
+      "Gems": "x51,995",
+      "Limited": false,
+      "Coins": "x42,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Sky Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x96,666",
+      "Bubbles": "+70,050",
+      "Gems": "x51,995",
+      "Limited": false,
+      "Coins": "x42,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Fire Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Crystals": "x145,000",
+      "Bubbles": "+70,050",
+      "Gems": "x51,995",
+      "Limited": false,
+      "Coins": "x42,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Cave Bat",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+7",
+      "Gems": "x6",
+      "Limited": false,
+      "Coins": "x9"
+    }
+  },
+  {
+    "Name": "Ruby Bat",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+11",
+      "Gems": "x5",
+      "Limited": false,
+      "Coins": "x8"
+    }
+  },
+  {
+    "Name": "Sapphire Bat",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+14",
+      "Gems": "x9",
+      "Limited": false,
+      "Coins": "x11"
+    }
+  },
+  {
+    "Name": "Dark Bat",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+19",
+      "Gems": "x20",
+      "Limited": false,
+      "Coins": "x25"
+    }
+  },
+  {
+    "Name": "Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+45",
+      "Gems": "x50",
+      "Limited": false,
+      "Coins": "x70"
+    }
+  },
+  {
+    "Name": "Emerald Bat",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+55",
+      "Gems": "x60",
+      "Limited": false,
+      "Coins": "x105"
+    }
+  },
+  {
+    "Name": "Unicorn",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+125",
+      "Gems": "x265",
+      "Limited": false,
+      "Coins": "x385"
+    }
+  },
+  {
+    "Name": "Flying Pig",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+145",
+      "Gems": "x385",
+      "Limited": false,
+      "Coins": "x290"
+    }
+  },
+  {
+    "Name": "Beach Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+450",
+      "Gems": "x570",
+      "Limited": true,
+      "Coins": "x595"
+    }
+  },
+  {
+    "Name": "Beach Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+460",
+      "Gems": "x585",
+      "Limited": true,
+      "Coins": "x515"
+    }
+  },
+  {
+    "Name": "Pineapple Boi",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+785",
+      "Gems": "x1,010",
+      "Limited": true,
+      "Coins": "x1,000"
+    }
+  },
+  {
+    "Name": "Starfish",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+855",
+      "Gems": "x1,200",
+      "Limited": true,
+      "Coins": "x1,105"
+    }
+  },
+  {
+    "Name": "King Lobster",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,115",
+      "Gems": "x1,995",
+      "Limited": true,
+      "Coins": "x2,135"
+    }
+  },
+  {
+    "Name": "King Turtle",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,100",
+      "Gems": "x2,115",
+      "Limited": true,
+      "Coins": "x1,650"
+    }
+  },
+  {
+    "Name": "Sandcastle Dragon",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,000",
+      "Gems": "x17,155",
+      "Limited": true,
+      "Coins": "x14,540"
+    }
+  },
+  {
+    "Name": "Mythic Sandcastle Dragon",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+18,750",
+      "Gems": "x64,331.25",
+      "Limited": true,
+      "Coins": "x54,525"
+    }
+  },
+  {
+    "Name": "Lemonade Master",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+7,450",
+      "Gems": "x30,360",
+      "Limited": true,
+      "Coins": "x27,500"
+    }
+  },
+  {
+    "Name": "Mythic Lemonade Master",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+27,937.5",
+      "Gems": "x113,850",
+      "Limited": true,
+      "Coins": "x103,125"
+    }
+  },
+  {
+    "Name": "BGS Bucket",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+10,000",
+      "Gems": "x41,415",
+      "Limited": true,
+      "Coins": "x37,550"
+    }
+  },
+  {
+    "Name": "Mythic BGS Bucket",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+37,500",
+      "Gems": "x155,306.25",
+      "Limited": true,
+      "Coins": "x140,812.5"
+    }
+  },
+  {
+    "Name": "Strawberry Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+142,500",
+      "Gems": "x81,850",
+      "Limited": true,
+      "Coins": "x99,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Strawberry Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+356,250",
+      "Gems": "x204,625",
+      "Limited": true,
+      "Coins": "x248,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Vanilla Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+142,500",
+      "Gems": "x81,850",
+      "Limited": true,
+      "Coins": "x99,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Vanilla Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+356,250",
+      "Gems": "x204,625",
+      "Limited": true,
+      "Coins": "x248,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mint Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+142,500",
+      "Gems": "x81,850",
+      "Limited": true,
+      "Coins": "x99,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Mint Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+356,250",
+      "Gems": "x204,625",
+      "Limited": true,
+      "Coins": "x248,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Chocolate Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+142,500",
+      "Gems": "x81,850",
+      "Limited": true,
+      "Coins": "x99,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Chocolate Sundae Champion",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+356,250",
+      "Gems": "x204,625",
+      "Limited": true,
+      "Coins": "x248,750",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Space Mouse",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+11",
+      "Gems": "x11",
+      "Limited": false,
+      "Coins": "x9"
+    }
+  },
+  {
+    "Name": "Space Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+10",
+      "Gems": "x10",
+      "Limited": false,
+      "Coins": "x8"
+    }
+  },
+  {
+    "Name": "Space Bull",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+15",
+      "Gems": "x15",
+      "Limited": false,
+      "Coins": "x12"
+    }
+  },
+  {
+    "Name": "Lunar Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+24",
+      "Gems": "x25",
+      "Limited": false,
+      "Coins": "x20"
+    }
+  },
+  {
+    "Name": "Amethyst Golem",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+30",
+      "Gems": "x30",
+      "Limited": false,
+      "Coins": "x25"
+    }
+  },
+  {
+    "Name": "Galactic Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+165",
+      "Gems": "x80",
+      "Limited": false,
+      "Coins": "x100"
+    }
+  },
+  {
+    "Name": "Lunarcorn",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+160",
+      "Gems": "x75",
+      "Limited": false,
+      "Coins": "x100"
+    }
+  },
+  {
+    "Name": "Lunar Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+695",
+      "Gems": "x666",
+      "Limited": false,
+      "Coins": "x465"
+    }
+  },
+  {
+    "Name": "Electra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,365",
+      "Gems": "x985",
+      "Limited": false,
+      "Coins": "x1,050"
+    }
+  },
+  {
+    "Name": "Lunar Duality",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+53,850",
+      "Gems": "x45,000",
+      "Limited": true,
+      "Coins": "x35,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Ghost Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+140",
+      "Gems": "x125",
+      "Limited": false,
+      "Coins": "x175"
+    }
+  },
+  {
+    "Name": "Ghost Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+150",
+      "Gems": "x145",
+      "Limited": false,
+      "Coins": "x170"
+    }
+  },
+  {
+    "Name": "Twilight Bat",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+225",
+      "Gems": "x305",
+      "Limited": false,
+      "Coins": "x265"
+    }
+  },
+  {
+    "Name": "Blood Crawler",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+280",
+      "Gems": "x305",
+      "Limited": false,
+      "Coins": "x355"
+    }
+  },
+  {
+    "Name": "Twilight Unicorn",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+950",
+      "Gems": "x805",
+      "Limited": false,
+      "Coins": "x575"
+    }
+  },
+  {
+    "Name": "Twilight Dragon",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,275",
+      "Gems": "x1,190",
+      "Limited": false,
+      "Coins": "x960"
+    }
+  },
+  {
+    "Name": "Twilight Serpent",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,950",
+      "Gems": "x1,705",
+      "Limited": false,
+      "Coins": "x1,550"
+    }
+  },
+  {
+    "Name": "Demon Eye",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,250",
+      "Gems": "x2,120",
+      "Limited": false,
+      "Coins": "x1,755"
+    }
+  },
+  {
+    "Name": "Gourd Doggy",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+550",
+      "Gems": "x650",
+      "Limited": true,
+      "Coins": "x750"
+    }
+  },
+  {
+    "Name": "Gourd Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+590",
+      "Gems": "x645",
+      "Limited": true,
+      "Coins": "x655"
+    }
+  },
+  {
+    "Name": "Pumpkin Boi",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+1,025",
+      "Gems": "x1,500",
+      "Limited": true,
+      "Coins": "x1,290"
+    }
+  },
+  {
+    "Name": "Stickbug",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+1,135",
+      "Gems": "x1,350",
+      "Limited": true,
+      "Coins": "x1,445"
+    }
+  },
+  {
+    "Name": "Scarecrow Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,455",
+      "Gems": "x2,815",
+      "Limited": true,
+      "Coins": "x2,935"
+    }
+  },
+  {
+    "Name": "Scarecrow Unicorn",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,390",
+      "Gems": "x2,985",
+      "Limited": true,
+      "Coins": "x2,750"
+    }
+  },
+  {
+    "Name": "Autumn Dragon",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,750",
+      "Gems": "x20,000",
+      "Limited": true,
+      "Coins": "x17,040"
+    }
+  },
+  {
+    "Name": "Mythic Autumn Dragon",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+21,562.5",
+      "Gems": "x75,000",
+      "Limited": true,
+      "Coins": "x63,900"
+    }
+  },
+  {
+    "Name": "Autumnal Master",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+8,500",
+      "Gems": "x35,220",
+      "Limited": true,
+      "Coins": "x31,500"
+    }
+  },
+  {
+    "Name": "Mythic Autumnal Master",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+12,750",
+      "Gems": "x52,830",
+      "Limited": true,
+      "Coins": "x47,250"
+    }
+  },
+  {
+    "Name": "Eternal Pumpkin",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+10,750",
+      "Gems": "x44,455",
+      "Limited": true,
+      "Coins": "x40,550"
+    }
+  },
+  {
+    "Name": "Mythic Eternal Pumpkin",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+16,125",
+      "Gems": "x66,682.5",
+      "Limited": true,
+      "Coins": "x60,825"
+    }
+  },
+  {
+    "Name": "Almighty Pumpkin",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+443,000",
+      "Gems": "x104,500",
+      "Limited": true,
+      "Coins": "x208,630",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Almighty Pumpkin",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+742,000",
+      "Gems": "x456,750",
+      "Limited": true,
+      "Coins": "x362,945",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Koi",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+1,426,126",
+      "Gems": "x607,575",
+      "Limited": true,
+      "Coins": "x511,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Koi",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+3,580,306.25",
+      "Gems": "x1,402,501.25",
+      "Limited": true,
+      "Coins": "x1,630,000",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Candy Winged Hydra",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x2,000",
+      "Bubbles": "+7,000",
+      "Gems": "x4,100",
+      "Limited": false,
+      "Coins": "x5,500",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Demon Pup",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+165",
+      "Gems": "x125",
+      "Limited": false,
+      "Coins": "x140"
+    }
+  },
+  {
+    "Name": "Demon Kitty",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+195",
+      "Gems": "x132",
+      "Limited": false,
+      "Coins": "x135"
+    }
+  },
+  {
+    "Name": "Demon Bunny",
+    "Data": {
+      "Rarity": "Common",
+      "Bubbles": "+205",
+      "Gems": "x140",
+      "Limited": false,
+      "Coins": "x155"
+    }
+  },
+  {
+    "Name": "Demon Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+245",
+      "Gems": "x185",
+      "Limited": false,
+      "Coins": "x210"
+    }
+  },
+  {
+    "Name": "Demon Fox",
+    "Data": {
+      "Rarity": "Rare",
+      "Bubbles": "+875",
+      "Gems": "x660",
+      "Limited": false,
+      "Coins": "x510"
+    }
+  },
+  {
+    "Name": "Evil Unicorn",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,100",
+      "Gems": "x1,059",
+      "Limited": false,
+      "Coins": "x955"
+    }
+  },
+  {
+    "Name": "Evil Angel",
+    "Data": {
+      "Rarity": "Epic",
+      "Bubbles": "+1,725",
+      "Gems": "x1,580",
+      "Limited": false,
+      "Coins": "x1,275"
+    }
+  },
+  {
+    "Name": "Evil Phoenix",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+2,715",
+      "Gems": "x2,055",
+      "Limited": false,
+      "Coins": "x1,655"
+    }
+  },
+  {
+    "Name": "Devil",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+3,330",
+      "Gems": "x2,505",
+      "Limited": false,
+      "Coins": "x2,345"
+    }
+  },
+  {
+    "Name": "Twitter Doggy",
+    "Data": {
+      "Rarity": "Unique",
+      "Bubbles": "+3",
+      "Gems": "x3",
+      "Limited": false,
+      "Coins": "x4",
+      "Code": true
+    }
+  },
+  {
+    "Name": "Le Hatt'o Doggy",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+100,000",
+      "Gems": "x50,000",
+      "Limited": true,
+      "Coins": "x50,000",
+      "Robux": true
+    }
+  },
+  {
+    "Name": "Yellow Gummy Bear",
+    "Data": {
+      "Rarity": "Common",
+      "Candy": "x300",
+      "Bubbles": "+650",
+      "Gems": "x420",
+      "Limited": false,
+      "Coins": "x525"
+    }
+  },
+  {
+    "Name": "Orange Gummy Bear",
+    "Data": {
+      "Rarity": "Common",
+      "Candy": "x375",
+      "Bubbles": "+675",
+      "Gems": "x440",
+      "Limited": false,
+      "Coins": "x530"
+    }
+  },
+  {
+    "Name": "Red Gummy Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Candy": "x450",
+      "Bubbles": "+790",
+      "Gems": "x640",
+      "Limited": false,
+      "Coins": "x700"
+    }
+  },
+  {
+    "Name": "Green Gummy Bear",
+    "Data": {
+      "Rarity": "Unique",
+      "Candy": "x485",
+      "Bubbles": "+830",
+      "Gems": "x780",
+      "Limited": false,
+      "Coins": "x800"
+    }
+  },
+  {
+    "Name": "Gummy Worm",
+    "Data": {
+      "Rarity": "Rare",
+      "Candy": "x650",
+      "Bubbles": "+1,020",
+      "Gems": "x1,020",
+      "Limited": false,
+      "Coins": "x980"
+    }
+  },
+  {
+    "Name": "Gummy Shark",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x800",
+      "Bubbles": "+2,350",
+      "Gems": "x1,820",
+      "Limited": false,
+      "Coins": "x2,150"
+    }
+  },
+  {
+    "Name": "Red Gummy Shark",
+    "Data": {
+      "Rarity": "Epic",
+      "Candy": "x800",
+      "Bubbles": "+1,550",
+      "Gems": "x1,630",
+      "Limited": false,
+      "Coins": "x1,420"
+    }
+  },
+  {
+    "Name": "Radioactive Bear",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x1,500",
+      "Bubbles": "+3,650",
+      "Gems": "x3,150",
+      "Limited": false,
+      "Coins": "x3,950"
+    }
+  },
+  {
+    "Name": "Mutant Bear",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x2,000",
+      "Bubbles": "+4,250",
+      "Gems": "x2,950",
+      "Limited": false,
+      "Coins": "x4,050"
+    }
+  },
+  {
+    "Name": "Gummy Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x47,750",
+      "Bubbles": "+21,500",
+      "Gems": "x57,500",
+      "Limited": false,
+      "Coins": "x62,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Gummy Shard",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x119,375",
+      "Bubbles": "+131,250",
+      "Gems": "x143,750",
+      "Limited": false,
+      "Coins": "x156,250",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Eternal Gumdrop",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x69,000",
+      "Bubbles": "+25,000",
+      "Gems": "x77,500",
+      "Limited": false,
+      "Coins": "x92,500",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Mythic Eternal Gumdrop",
+    "Data": {
+      "Rarity": "Legendary",
+      "Candy": "x172,500",
+      "Bubbles": "+62,500",
+      "Gems": "x193,750",
+      "Limited": false,
+      "Coins": "x231,250",
+      "Secret": true
+    }
+  },
+  {
+    "Name": "Isaac's Creation 2.0",
+    "Data": {
+      "Rarity": "Legendary",
+      "Bubbles": "+5,000,000",
+      "Gems": "x5,000,000",
+      "Limited": false,
+      "Coins": "x5,000,000",
+      "Leaderboard": true
+    }
+  }
+]
