@@ -130,4 +130,4 @@ async def search_pet(ctx, pet_name: str, pet_type: str):
     else:
         await ctx.respond(f"Pet '{pet_name}' not found.", ephemeral=True)
 
-bot.run('MTI0ODI3NzY3Njk0MzQ3NDcxOQ.GUmDCa.w-CE7whvbpM4FZd4O7VB610sBOAwKuwTzM1Nwk')
+bot.run(bot_token)
